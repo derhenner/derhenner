@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hey, ich bin Henner 👋
 
-<!--
-**derhenner/derhenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nordhesse aus **Kassel** — Spiele, Tools, Server und Webzeugs.
 
-Here are some ideas to get you started:
+**PC Webdesign Service Gilch** · [pcservice-gilch.dev](https://pcservice-gilch.dev)  
+Smart Home mit Home Assistant & KNX · PC-Hilfe · Webdesign
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Online
+- 🌐 [derhenner.de](https://derhenner.de/) — persönliche Seite
+- 🎮 [games.pcservice-gilch.de](https://games.pcservice-gilch.de/) — Browser-Spiele
+- 📺 Twitch [hennerlive](https://twitch.tv/hennerlive)
+- ▶️ YouTube [Henner – Der Nordhesse](https://www.youtube.com/@derhenner)
+- 🎙️ [podkassel.de](https://podkassel.de/)
+- 🕹️ German Roleplay · [samp.german-roleplay.me](https://samp.german-roleplay.me/) · [Forum](https://forum.german-roleplay.me/)
+- 🧟 Last Horizon (Zombie-Survival)
+
+### Was ich so mache
+PC-Service & Webdesign seit Jahren · Community-Server · eigene Spiele & Tools · Streaming
+
+---
+*Kassel · Germany*
